@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+  CDll.cpp
+  dllmain.cpp
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/PROFILE' specification
+CDll.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:LBR' specification
+     Creating library C:\Users\wojte\Desktop\Studia\JA\ProjektJA\x64\Debug\DLL_C.lib and object C:\Users\wojte\Desktop\Studia\JA\ProjektJA\x64\Debug\DLL_C.exp
+  CDll.vcxproj -> C:\Users\wojte\Desktop\Studia\JA\ProjektJA\x64\Debug\DLL_C.dll
+  CDll.vcxproj -> C:\Users\wojte\Desktop\Studia\JA\ProjektJA\x64\Debug\DLL_C.pdb (Full PDB)

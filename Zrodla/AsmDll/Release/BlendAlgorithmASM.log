@@ -1,0 +1,13 @@
+﻿  Assembling operateOnPixelsAsm.asm...
+operateOnPixelsAsm.asm(1): error A2013: .MODEL must precede this directive
+operateOnPixelsAsm.asm(5): error A2071: initializer magnitude too large for specified size
+operateOnPixelsAsm.asm(5): error A2034: must be in segment block : operateOnPixelsAsm
+operateOnPixelsAsm.asm(7): error A2034: must be in segment block
+operateOnPixelsAsm.asm(8): error A2034: must be in segment block
+operateOnPixelsAsm.asm(10): error A2034: must be in segment block
+operateOnPixelsAsm.asm(12): error A2034: must be in segment block
+operateOnPixelsAsm.asm(14): error A2034: must be in segment block
+operateOnPixelsAsm.asm(16): error A2034: must be in segment block
+operateOnPixelsAsm.asm(17): error A2071: initializer magnitude too large for specified size
+operateOnPixelsAsm.asm(17): fatal error A1010: unmatched block nesting : operateOnPixe
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\BuildCustomizations\masm.targets(50,5): error MSB3721: The command "ml.exe /c /nologo /Zi /Fo"Release\operateOnPixelsAsm.obj" /W3 /errorReport:prompt  /TaoperateOnPixelsAsm.asm" exited with code 1.

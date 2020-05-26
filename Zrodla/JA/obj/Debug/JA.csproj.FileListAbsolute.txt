@@ -1,0 +1,9 @@
+C:\Users\wojte\Desktop\Studia\JA\ProjektJA\JA\bin\Debug\JA.exe.config
+C:\Users\wojte\Desktop\Studia\JA\ProjektJA\JA\bin\Debug\JA.exe
+C:\Users\wojte\Desktop\Studia\JA\ProjektJA\JA\bin\Debug\JA.pdb
+C:\Users\wojte\Desktop\Studia\JA\ProjektJA\JA\obj\Debug\JA.Form1.resources
+C:\Users\wojte\Desktop\Studia\JA\ProjektJA\JA\obj\Debug\JA.Properties.Resources.resources
+C:\Users\wojte\Desktop\Studia\JA\ProjektJA\JA\obj\Debug\JA.csproj.GenerateResource.Cache
+C:\Users\wojte\Desktop\Studia\JA\ProjektJA\JA\obj\Debug\JA.exe
+C:\Users\wojte\Desktop\Studia\JA\ProjektJA\JA\obj\Debug\JA.pdb
+C:\Users\wojte\Desktop\Studia\JA\ProjektJA\JA\obj\Debug\JA.csprojResolveAssemblyReference.cache

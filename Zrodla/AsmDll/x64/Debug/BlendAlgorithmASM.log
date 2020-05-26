@@ -1,0 +1,9 @@
+﻿  Assembling operateOnPixelsAsm.asm...
+MASM : warning A4018: invalid command-line option : /Gz
+  stdafx.cpp
+  AsmDll.cpp
+  dllmain.cpp
+  .NETFramework,Version=v4.0.AssemblyAttributes.cpp
+     Creating library C:\Users\wojte\Desktop\Studia\JA\ProjektJA\x64\Debug\AsmDll.lib and object C:\Users\wojte\Desktop\Studia\JA\ProjektJA\x64\Debug\AsmDll.exp
+  BlendAlgorithmASM.vcxproj -> C:\Users\wojte\Desktop\Studia\JA\ProjektJA\x64\Debug\AsmDll.dll
+  BlendAlgorithmASM.vcxproj -> C:\Users\wojte\Desktop\Studia\JA\ProjektJA\x64\Debug\AsmDll.pdb (Full PDB)

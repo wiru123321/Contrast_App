@@ -1,0 +1,17 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (BlendAlgorithmASM.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Assembling operateOnPixelsAsm.asm...
+operateOnPixelsAsm.asm(1): error A2013: .MODEL must precede this directive
+operateOnPixelsAsm.asm(7): error A2071: initializer magnitude too large for specified size
+operateOnPixelsAsm.asm(7): error A2034: must be in segment block : operateOnPixelsAsm
+operateOnPixelsAsm.asm(11): error A2034: must be in segment block
+operateOnPixelsAsm.asm(12): error A2034: must be in segment block
+operateOnPixelsAsm.asm(13): error A2034: must be in segment block
+operateOnPixelsAsm.asm(15): error A2034: must be in segment block
+operateOnPixelsAsm.asm(16): error A2034: must be in segment block
+operateOnPixelsAsm.asm(18): error A2034: must be in segment block
+operateOnPixelsAsm.asm(20): error A2034: must be in segment block
+operateOnPixelsAsm.asm(22): error A2034: must be in segment block
+operateOnPixelsAsm.asm(24): error A2034: must be in segment block
+operateOnPixelsAsm.asm(25): error A2071: initializer magnitude too large for specified size
+operateOnPixelsAsm.asm(25): fatal error A1010: unmatched block nesting : operateOnPixe
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\BuildCustomizations\masm.targets(50,5): error MSB3721: The command "ml.exe /c /nologo /Zi /Fo"Debug\operateOnPixelsAsm.obj" /W3 /Gz /errorReport:prompt  /TaoperateOnPixelsAsm.asm" exited with code 1.

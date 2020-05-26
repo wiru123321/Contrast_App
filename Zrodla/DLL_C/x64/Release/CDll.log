@@ -1,0 +1,10 @@
+﻿  stdafx.cpp
+  CDll.cpp
+CDll.cpp(28): warning C4244: '=': conversion from 'double' to 'unsigned char', possible loss of data
+  dllmain.cpp
+     Creating library C:\Users\wojte\Downloads\JA_A.Kubica_SkalaSzarosci\JA_A.Kubica_SkalaSzarosci\Zrodla\x64\Release\DLL_C.lib and object C:\Users\wojte\Downloads\JA_A.Kubica_SkalaSzarosci\JA_A.Kubica_SkalaSzarosci\Zrodla\x64\Release\DLL_C.exp
+  Generating code
+  All 2 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  CDll.vcxproj -> C:\Users\wojte\Downloads\JA_A.Kubica_SkalaSzarosci\JA_A.Kubica_SkalaSzarosci\Zrodla\x64\Release\DLL_C.dll
+  CDll.vcxproj -> C:\Users\wojte\Downloads\JA_A.Kubica_SkalaSzarosci\JA_A.Kubica_SkalaSzarosci\Zrodla\x64\Release\DLL_C.pdb (Full PDB)
